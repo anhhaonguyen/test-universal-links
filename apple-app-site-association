@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6YPTSWJK4P.com.geocomply.oobee",
+        "paths":[ "/register", "abc123" ]
+      }
+    ]
+  }
+}
